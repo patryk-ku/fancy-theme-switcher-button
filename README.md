@@ -9,3 +9,7 @@ This repository contains only the required html elements and a .css file with st
 Simply using JS add an `.active` class to a div with a `.fancy-theme-switcher-button` class to switch the state of a button to a nighttime appearance.
 
 To resize the button, use the `font-size` of the parent DOM element, as all button dimensions are expressed in `.em` units.
+
+## Inspiration
+
+This [meme](https://www.youtube.com/watch?v=5qHHm7ooavo)
